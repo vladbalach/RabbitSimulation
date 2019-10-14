@@ -1,0 +1,29 @@
+﻿  SeekForCouple.cpp
+D:\Projects\Programming\Ecosystem\Ecosystem\SeekForCouple.cpp(16,65): warning C4244:  аргумент: преобразование "double" в "float", возможна потеря данных
+D:\Projects\Programming\Ecosystem\Ecosystem\SeekForCouple.cpp(20,66): warning C4244:  аргумент: преобразование "double" в "float", возможна потеря данных
+D:\Projects\Programming\Ecosystem\Ecosystem\SeekForCouple.cpp(36,145): warning C4244:  аргумент: преобразование "double" в "float", возможна потеря данных
+D:\Projects\Programming\Ecosystem\Ecosystem\SeekForCouple.cpp(39,145): warning C4244:  аргумент: преобразование "double" в "float", возможна потеря данных
+D:\Projects\Programming\Ecosystem\Ecosystem\SeekForCouple.cpp(42,125): warning C4244:  аргумент: преобразование "double" в "float", возможна потеря данных
+D:\Projects\Programming\Ecosystem\Ecosystem\SeekForCouple.cpp(45,125): warning C4244:  аргумент: преобразование "double" в "float", возможна потеря данных
+D:\Projects\Programming\Ecosystem\Ecosystem\SeekForCouple.cpp(58,17): warning C4244:  =: преобразование "double" в "float", возможна потеря данных
+D:\Projects\Programming\Ecosystem\Ecosystem\SeekForCouple.cpp(68,42): warning C4244:  аргумент: преобразование "float" в "int", возможна потеря данных
+  main.cpp
+D:\Projects\Programming\Ecosystem\Ecosystem\SeekForCouple.cpp(68,31): warning C4244:  аргумент: преобразование "float" в "int", возможна потеря данных
+D:\Projects\Programming\Ecosystem\Ecosystem\main.cpp(20,12): warning C4244:  аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\Projects\Programming\Ecosystem\Ecosystem\main.cpp(62,77): warning C4305:  аргумент: усечение из "double" в "float"
+D:\Projects\Programming\Ecosystem\Ecosystem\main.cpp(62,47): warning C4244:  аргумент: преобразование "int" в "float", возможна потеря данных
+D:\Projects\Programming\Ecosystem\Ecosystem\main.cpp(62,33): warning C4244:  аргумент: преобразование "int" в "float", возможна потеря данных
+D:\Projects\Programming\Ecosystem\Ecosystem\main.cpp(76,150): warning C4244:  аргумент: преобразование "float" в "int", возможна потеря данных
+D:\Projects\Programming\Ecosystem\Ecosystem\main.cpp(76,73): warning C4244:  аргумент: преобразование "Sint32" в "float", возможна потеря данных
+D:\Projects\Programming\Ecosystem\Ecosystem\main.cpp(76,44): warning C4244:  аргумент: преобразование "int" в "float", возможна потеря данных
+D:\Projects\Programming\Ecosystem\Ecosystem\main.cpp(100,77): warning C4244:  аргумент: преобразование "int" в "float", возможна потеря данных
+D:\Projects\Programming\Ecosystem\Ecosystem\main.cpp(100,66): warning C4244:  аргумент: преобразование "int" в "float", возможна потеря данных
+D:\Projects\Programming\Ecosystem\Ecosystem\main.cpp(100,62): warning C4244:  аргумент: преобразование "Sint32" в "float", возможна потеря данных
+D:\Projects\Programming\Ecosystem\Ecosystem\main.cpp(100,32): warning C4244:  аргумент: преобразование "int" в "float", возможна потеря данных
+D:\Projects\Programming\Ecosystem\Ecosystem\main.cpp(128,100): warning C4305:  аргумент: усечение из "double" в "float"
+D:\Projects\Programming\Ecosystem\Ecosystem\main.cpp(128,70): warning C4244:  аргумент: преобразование "int" в "float", возможна потеря данных
+D:\Projects\Programming\Ecosystem\Ecosystem\main.cpp(128,56): warning C4244:  аргумент: преобразование "int" в "float", возможна потеря данных
+D:\Projects\Programming\Ecosystem\Ecosystem\main.cpp(149,23): warning C4305:  -=: усечение из "double" в "float"
+  Создание кода...
+D:\Projects\Programming\Ecosystem\Ecosystem\main.cpp(181,22): warning C4305:  -=: усечение из "double" в "float"
+  Ecosystem.vcxproj -> D:\Projects\Programming\Ecosystem\x64\Debug\Ecosystem.exe
